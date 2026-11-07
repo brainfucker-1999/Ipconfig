@@ -216,4 +216,4 @@ IPConfig is available as a full free version with all features and updates inclu
 Start exploring your network capabilities today by downloading IPConfig for free!
 
 ---
-**Last updated:** 2026-11-06 21:49:27 UTC
+**Last updated:** 2026-11-07 01:21:56 UTC
